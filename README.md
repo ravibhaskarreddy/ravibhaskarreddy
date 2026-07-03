@@ -3,11 +3,11 @@
 
 ## 💻 About Me
 
-I'm a **.NET Full Stack Developer** passionate about building scalable, enterprise-grade applications using **C#, ASP.NET Core, Web APIs, SQL Server, Azure, and modern development practices**.
+I'm a **.NET Full Stack Developer** passionate about designing and building scalable, enterprise-grade applications using **C#, ASP.NET Core, Web APIs, SQL Server, Azure, and modern software engineering practices**.
 
-I enjoy solving real-world engineering challenges, improving application performance, and creating tools that simplify development and troubleshooting. I'm continuously expanding my expertise in **Microservices, Cloud Technologies, AI-assisted development, and System Design**.
+I enjoy solving real-world engineering challenges, improving application performance, and building tools that simplify development, debugging, and automation. I'm continuously expanding my expertise in **Microservices, Cloud Technologies, AI-assisted development, and System Design**.
 
-🎯 **Goal:** Build high-quality software, contribute to open-source projects, and share knowledge with the developer community.
+🎯 **Career Goal:** Build reliable software, contribute to open-source projects, and share knowledge with the developer community through practical projects and technical content.
 
 ---
 
@@ -41,26 +41,43 @@ I enjoy solving real-world engineering challenges, improving application perform
 - VS Code
 - Postman
 - Swagger
-- GitHub
 - Jira
+- GitHub Desktop
+
+### 🔍 API Testing & Monitoring
+- Postman
+- Newman
+- Kibana
+- OpenSearch
+
+### 📚 Concepts
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Design Patterns
+- REST API Design
+- Clean Architecture
+- Microservices (Learning)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 SimpleFileSearcher
-A high-performance Windows Forms application that searches extremely large log files using a Request ID and extracts complete JSON payloads for debugging and log analysis.
+### 🔍 [SimpleFileSearcher](https://github.com/ravibhaskarreddy/SimpleFileSearcher)
+
+A high-performance Windows Forms application that efficiently searches extremely large log files using a **Request ID** and extracts complete JSON payloads for debugging and log analysis.
 
 **Highlights**
-- Search large log files efficiently
+- Fast searching in large log files
 - Extract complete JSON blocks
 - Windows Forms desktop application
 - Built with C# and .NET
+- Designed for enterprise troubleshooting
 
 ---
 
-### 🌱 IoT-Based Smart Irrigation
-An IoT-based smart irrigation system concept designed to automate irrigation using environmental sensor data for efficient water management.
+### 🌱 [IoT-Based Smart Irrigation](https://github.com/ravibhaskarreddy/iot-based-smart-irrigation)
+
+An IoT-based smart irrigation system concept focused on automating irrigation using environmental sensor data for efficient water management.
 
 ---
 
@@ -71,7 +88,7 @@ An IoT-based smart irrigation system concept designed to automate irrigation usi
 - Azure Cloud Services
 - AI-assisted Software Development
 - System Design
-- Design Patterns
+- Advanced C# & .NET
 
 ---
 
@@ -81,8 +98,9 @@ I'm interested in collaborating on:
 
 - .NET & ASP.NET Core projects
 - REST API development
-- Open-source developer tools
 - Enterprise software solutions
+- Developer productivity tools
+- Open-source contributions
 - AI-powered applications
 
 ---
@@ -91,9 +109,19 @@ I'm interested in collaborating on:
 
 - .NET Full Stack Development
 - Backend Engineering
+- Enterprise Application Development
 - Cloud-Native Applications
-- Enterprise Software Development
 - Software Architecture
+
+---
+
+## 📅 2026 Goals
+
+- Build and publish practical .NET projects
+- Contribute to open-source repositories
+- Create C# educational content
+- Explore AI integration with .NET applications
+- Continuously improve software design and architecture skills
 
 ---
 
@@ -101,19 +129,15 @@ I'm interested in collaborating on:
 
 💼 LinkedIn: https://www.linkedin.com/in/ravibhaskarreddy/
 
----
-
-## ⭐ GitHub Goals
-
-- Build useful developer tools
-- Share practical C# and .NET projects
-- Contribute to open-source
-- Publish technical content and tutorials
-- Continue learning and improving every day
+📍 Hyderabad, Telangana, India
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, connect with me, or collaborate on exciting .NET projects.
+## ⭐ Thanks for Visiting!
 
-⭐ If you find my work useful, consider giving a star to the repositories you like!
+Thank you for visiting my GitHub profile!
+
+Feel free to explore my repositories, connect with me on LinkedIn, or collaborate on exciting .NET projects.
+
+If you find any of my projects useful, consider giving them a ⭐.
 ```
