@@ -80,8 +80,7 @@ I'm always interested in collaborating on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
-- 📧 Email: *(Optional)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/ravibhaskarreddy/*
 
 ---
 
